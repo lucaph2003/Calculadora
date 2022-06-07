@@ -14,7 +14,7 @@ namespace Calculadora.iOS
         {
             // if you want to use a different Application Delegate class from "AppDelegate"
             // you can specify it here.
-            //MAin class
+            //Hola soy luca y esto es una puta prueba de mierda
             UIApplication.Main(args, null, typeof(AppDelegate));
         }
     }
